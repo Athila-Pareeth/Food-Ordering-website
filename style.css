@@ -1,0 +1,25 @@
+header{
+    background: linear-gradient(#E7E8D8,#CADABF,#B5CFB7);
+    width: 100%;
+    height: 300px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: #B5CFB7;
+   position: sticky;
+   box-shadow: 5px 5px 8px gray;
+}
+img{
+    border-radius: 30px;
+    float: right;
+    margin: 20px;
+    box-shadow: 5px 5px 10px gray;
+
+}
+.socialicon i{
+   font-size: 30px;
+   float: right;
+   margin-right: 60px;
+}
+.socialicon i:hover{
+    color: #f59208;
+}
